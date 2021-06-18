@@ -1,7 +1,7 @@
 package _2_Add_Two_Numbers;
 // https://leetcode.com/problems/add-two-numbers/
 
-class Solution {
+class Solution2 {
     public static void main(String[] args) {
         int[] nums1 = {2, 3, 4, 9, 5, 5};
         int[] nums2 = {1, 2, 5};
